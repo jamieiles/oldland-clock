@@ -1,0 +1,9 @@
+#ifndef __IRQ_DEFINES_H__
+#define __IRQ_DEFINES_H__
+#define IRQ_ADDRESS 0x80002000
+#define IRQ_SIZE 0x1000
+#define IRQ_CTRL_STATUS_REG_OFFS 0x0
+#define IRQ_CTRL_DISABLE_REG_OFFS 0x8
+#define IRQ_CTRL_TEST_REG_OFFS 0xc
+#define IRQ_CTRL_ENABLE_REG_OFFS 0x4
+#endif /* __IRQ_DEFINES_H__ */

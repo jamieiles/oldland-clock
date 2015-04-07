@@ -1,0 +1,6 @@
+Oldland Clock
+
+Simple demo application for the Oldland CPU/Keynsham SoC running on the
+DE0-CV.  Implements a 24-hour clock output to the 7-segment displays.
+
+License: GPLv2.
